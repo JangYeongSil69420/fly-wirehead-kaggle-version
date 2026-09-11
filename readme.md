@@ -1,4 +1,4 @@
-# Fly / Wirehead on Kaggle 🪰📱
+# Fly / Wirehead on Kaggle 📱
 
 Run the full **[fly-wirehead](https://github.com/mattyhempstead/fly-wirehead)** fruit fly connectome simulation entirely in the cloud via **Kaggle** and interact with the 3D Three.js environment directly from your browser using **Cloudflare Quick Tunnels**.
 
