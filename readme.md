@@ -68,6 +68,7 @@ Run **Section 6** in the notebook to terminate running background processes:
 ```python
 stop(server_proc, "server_proc")
 stop(tunnel_proc, "tunnel_proc")
+```
 
 ## Credits & Acknowledgments
 Original project and connectome engine: mattyhempstead/fly-wirehead
