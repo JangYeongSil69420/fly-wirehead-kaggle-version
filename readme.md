@@ -35,7 +35,7 @@ This repository provides a self-contained Jupyter Notebook (`.ipynb`) that:
 ---
 
 ## 🎮 Interactive Controls
-
+ NOTICE : THE UI AND KEYPRESSES ARE BUGGY AND CAN BREAK DOWN RANDOMLY . 
 Once the Three.js observation chamber loads in your browser:
 
 | Key / Input | Action |
@@ -68,3 +68,12 @@ Run **Section 6** in the notebook to terminate running background processes:
 ```python
 stop(server_proc, "server_proc")
 stop(tunnel_proc, "tunnel_proc")
+
+## Credits & Acknowledgments
+Original project and connectome engine: mattyhempstead/fly-wirehead
+
+Upstream spiking neural backend inspiration: nftechie/stonkfly
+
+Neural wiring data: MaleCNS v1.0 dataset (CC BY 4.0).
+
+3D Rendering: Three.js.
